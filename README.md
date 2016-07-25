@@ -10,7 +10,7 @@
   <article>
     <h2>stroke2</h2>
     <img src="https://github.com/shgtkshruch/processin.ga-examples/blob/master/screenshots/stroke2.png?raw=true">
-    <p><a href="https://processin.ga/editor/pPGNxZk8">https://processin.ga/editor/pPGNxZk8</a></p>
+    <p><a href="https://processin.ga/editor/pPG8XuV0">https://processin.ga/editor/pPG8XuV0</a></p>
   </article>
   <article>
     <h2>rect1</h2>
