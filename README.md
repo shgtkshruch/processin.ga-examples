@@ -3,6 +3,11 @@
   <p>examples using <a href="https://processin.ga/">processin.ga</a>.</p>
   <p>password: ShgtkShruch0305</p>
   <article>
+    <h2>cycle1</h2>
+    <img src="https://github.com/shgtkshruch/processin.ga-examples/blob/master/screenshots/cycle1.png?raw=true">
+    <p><a href="https://processin.ga/editor/pRVC8bq2">https://processin.ga/editor/pRVC8bq2</a></p>
+  </article>
+  <article>
     <h2>stroke1</h2>
     <img src="https://github.com/shgtkshruch/processin.ga-examples/blob/master/screenshots/stroke1.png?raw=true">
     <p><a href="https://processin.ga/editor/pPGLK4B9">https://processin.ga/editor/pPGLK4B9</a></p>
